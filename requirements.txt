@@ -1,2 +1,2 @@
-Django<3.3
-gunicorn
+Django==3.2.25
+gunicorn==20.1.0
